@@ -44,3 +44,17 @@ button:hover{
 button:focus{
     outline: none;
 }
+#type{
+    margin-left: 5px;
+    height: 20px;
+    font-size: 14px;
+}
+ul{
+    text-decoration: none;
+    text-align: left;
+    margin-top: 15px;
+    list-style: none;
+}
+li{
+    text-decoration: none;
+}
